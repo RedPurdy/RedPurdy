@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedPurdy
 - 👀 I’m interested in Bitcoin and cryptocurrency works
 - 🌱 I’m currently learning 3D
-- 💞️ I’m looking to collaborate on startups, app, web...(I'm Illustrtator and graphic designer)
+- 💞️ I’m looking to collaborate on startups, app, web, videogames...(I'm Illustrtator and graphic designer)
 - 📫 send me an email to: neone01@protonmail.com
 
 <!---
