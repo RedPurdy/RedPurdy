@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedPurdy
-- 👀 I’m interested in Bitcoin 
-- 🌱 I’m currently learning animation
+- 👀 I’m interested in Bitcoin projects
+
 
 
 <!---
